@@ -13,7 +13,9 @@ Pozwala na:
 Aplikacja przyjmuje trzy główne polecenia:
 
 ### 1. Budowa bazy danych ze skryptów
-Tworzy nową bazę w podanym katalogu i wykonuje skrypty z katalogu.
+Tworzy nową bazę w podanym katalogu i wykonuje skrypty z wybranego katalogu.
+Nazwa nowej bazy to NEW_DATABASE.FDB.
+Dane logowania ustawione są zgodnie z domyślną konfiguracją Firebirda.
 np. dotnet run -- build-db --db-dir "C:\ShopFB" --scripts-dir "C:\ExportScripts"
 
 ### 2. Eksport skryptów z istniejącej bazy
