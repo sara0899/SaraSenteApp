@@ -1,0 +1,17 @@
+C:\Users\spila\source\repos\SenteApp\bin\Debug\net8.0\SenteApp.exe
+C:\Users\spila\source\repos\SenteApp\bin\Debug\net8.0\SenteApp.deps.json
+C:\Users\spila\source\repos\SenteApp\bin\Debug\net8.0\SenteApp.runtimeconfig.json
+C:\Users\spila\source\repos\SenteApp\bin\Debug\net8.0\SenteApp.dll
+C:\Users\spila\source\repos\SenteApp\bin\Debug\net8.0\SenteApp.pdb
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.AssemblyInfoInputs.cache
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.AssemblyInfo.cs
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.csproj.CoreCompileInputs.cache
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.dll
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\refint\SenteApp.dll
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.pdb
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.genruntimeconfig.cache
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\ref\SenteApp.dll
+C:\Users\spila\source\repos\SenteApp\bin\Debug\net8.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.csproj.AssemblyReference.cache
+C:\Users\spila\source\repos\SenteApp\obj\Debug\net8.0\SenteApp.csproj.Up2Date
